@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Witty Quiz</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="correctToast">Correct!</string>
+    <string name="incorrectToast">Incorrect!</string>
+    <string name="nextButton">Next</string>
+    <string name="actionSetting">Settings</string>
+    <string name="question_blood">There are 5 different blood type groups.</string>
+    <string name="question_morroco">Marrakesh is the capital of Morroco.</string>
+    <string name="question_animal">The unicorn is the national animal of Scotland.</string>
+    <string name="question_brand">H &amp; M stands for Hennes &amp; Mauritz.</string>
+    <string name="question_disney">Cinderella was the first Disney princess.</string>
+    <string name="question_coffee">Coffee is made from berries.</string>
+    <string name="question_body">There are two parts of the body that can heal themselves.</string>
+    <string name="question_china">The Great Wall of China is longer than the distance between London and Beijing.</string>
+    <string name="question_artist">Madonna\'s real name is Madonna.</string>
+    <string name="question_body2">There are 206 bones in a human body.</string>
+    <string name="titleCheat">Cheating Time</string>
+    <string name="warning_text">You sure you want to do this buddy?</string>
+    <string name="showAnswer_text">Show Answer</string>
+    <string name="cheatButton">Cheat!</string>
+    <string name="judgment_toast">HEY!, THAT\'S CHEATING!</string>
+</resources>
